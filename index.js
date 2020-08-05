@@ -1,5 +1,5 @@
 // Ejercicio de prueba para posición de Trainee JS en empresa Onready.
-// Por Federico H. Cacace.
+// Por FedeHC.
 
 class Vehiculos {
   
@@ -160,7 +160,8 @@ class Vehiculos {
 }
 
 function iniciandoEjercicio() {
-  // Función utilizada para crear y usarla clase 'Vehículos'.
+  /* Función utilizada para crear la clase 'Vehículos' y resolver los ejercicios
+  por medios de llamadas a métodos a la instancia. */
   try {
     let v = new Vehiculos();
     v.cargar();
